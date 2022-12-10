@@ -1,0 +1,31 @@
+1. soru - c) Unicode
+
+
+2. soru - eksik terimler : void, "
+
+
+3.soru - eksik terimler : static, "
+	    yanlış terimler : Main, '
+	    terimlerin doğrusu: main, "
+
+
+4.soru - [1,1,3,2]
+
+
+5. soru - 16.46666666666667
+
+
+6. soru - true
+
+
+7. soru - 66
+
+
+8. soru - 301.5656
+
+
+
+9. soru - 32
+
+
+10. soru - 65 97
